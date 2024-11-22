@@ -1,3 +1,3 @@
 ## Hey, I'm Konrad 👋
 
-Currently I'm studying Computer Science in Berlin, Germany 🇩🇪 with Hitachi Rail
+I'm currently studying **Computer Science** 👨‍💻 as an undergraduate in Berlin, Germany 🇩🇪, in cooperation Hitachi Rail.
