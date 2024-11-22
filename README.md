@@ -6,6 +6,6 @@ I like to work with the following technologies:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,svelte,tailwind,nodejs,figma,notion&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,svelte,tailwind,nodejs,figma,notion,python&theme=light" />
   </a>
 </p>
