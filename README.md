@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Konrad 👋
 
 <!--
 **Calli-ope/Calli-ope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
