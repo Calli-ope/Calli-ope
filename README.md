@@ -1,8 +1,8 @@
 ## Hey, I'm Konrad 👋
 
-I'm currently studying **Computer Science** 👨‍💻 as an undergraduate in Berlin, Germany 🇩🇪, in cooperation Hitachi Rail.
+I'm currently studying **Computer Science** 👨‍💻 as an undergraduate in Berlin, Germany 🇩🇪, in cooperation Hitachi Rail 🚅.
 
-I like to work with the following technologies:
+The **technologies** 👾 I most enjoy working with are the following:
 
 <p align="center">
   <a href="https://skillicons.dev">
