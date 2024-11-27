@@ -1,6 +1,6 @@
 ## Hey, I'm Konrad 👋
 
-I'm currently studying **Computer Science** 👨‍💻 as an undergraduate in Berlin, Germany 🇩🇪, in cooperation Hitachi Rail 🚅.
+I'm currently studying **Computer Science** 👨‍💻 as an undergraduate in Berlin, Germany 🇩🇪, in cooperation with Hitachi Rail 🚅.
 
 The **technologies** 👾 I most enjoy working with are the following:
 
