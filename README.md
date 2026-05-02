@@ -1,9 +1,7 @@
-## Hey, I'm Konrad           
-<span className="ml-2 inline-block animate-wave origin-[70%_70%]">
-  <span role="img" aria-label="waving hand">&#128075;</span>
-</span>
+## Hey, I'm Konrad 👋
 
-I'm currently studying **Computer Science** 👨‍💻 as an undergraduate in Berlin, Germany 🇩🇪, in cooperation with Hitachi Rail 🚅.
+I'm currently pursuing my Master's in **Smart Mobility Data Science** 🧑‍🎓 at EIT Urban Mobility Master School in Barcelona 🇪🇸 and Tartu 🇪🇪.
+Prior to this, I completed my Computer Science degree in Berlin 🇩🇪 in dual cooperation with Hitachi Rail 🚅.
 
 The **technologies** 👾 I most enjoy working with are the following:
 
